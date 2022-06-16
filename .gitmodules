@@ -3,3 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "combiter"]
+	path = combiter
+	url = https://github.com/kota7/combiter
+	shallow = true
+	registered = true
+[submodule "outreg"]
+	path = outreg
+	url = https://github.com/kota7/outreg
+	shallow = true
+	registered = true
+[submodule "striprtf"]
+	path = striprtf
+	url = https://github.com/kota7/striprtf
+	shallow = true
+	registered = true
+[submodule "tictactoe"]
+	path = tictactoe
+	url = https://github.com/kota7/tictactoe
+	shallow = true
+	registered = true

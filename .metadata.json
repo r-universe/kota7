@@ -1,0 +1,18 @@
+[
+  {
+    "package": "combiter",
+    "oncran": true
+  },
+  {
+    "package": "outreg",
+    "oncran": true
+  },
+  {
+    "package": "striprtf",
+    "oncran": true
+  },
+  {
+    "package": "tictactoe",
+    "oncran": true
+  }
+]
