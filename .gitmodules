@@ -8,6 +8,11 @@
 	url = https://github.com/kota7/combiter
 	shallow = true
 	registered = true
+[submodule "kgschart"]
+	path = kgschart
+	url = https://github.com/cran/kgschart
+	shallow = true
+	registered = true
 [submodule "outreg"]
 	path = outreg
 	url = https://github.com/kota7/outreg
